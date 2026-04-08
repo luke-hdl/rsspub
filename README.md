@@ -1,6 +1,10 @@
 # rsspub
 
-An RSS reader that converts your feeds to EPUB ebook files.
+An RSS reader that converts your feeds to EPUB ebook files. This is a small hobby project I put together for my Xteink x4; given the simplicity of the project, I heavily utilized Copilot to keep things going at a rapid clip. 
+
+The project is finished; I don't expect to do any further development on it unless a new need arises in my personal use case. 
+
+Given the heavy use of Copilot, much of RSSPub is inherently uncopyrightable (due to "machine authorship".) Therefore, please consider the whole project to be in the public domain, if you would like to do anything with it. 
 
 ---
 
@@ -10,16 +14,11 @@ An RSS reader that converts your feeds to EPUB ebook files.
 
 ## Installation
 
-```bash
-pip install rsspub
-```
-
-For a development install from a local clone:
+Navigate to the directory in which you have cloned this repo, then: 
 
 ```bash
-pip install -e .
+pip install .
 ```
-
 ---
 
 ## Quick Start
